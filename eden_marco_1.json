@@ -1,0 +1,300 @@
+{
+  "public_identifier": "eden-marco",
+  "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/eden-marco/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241018%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241018T125921Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=23819113ee82ddb5f51b3641b4f05de6c67381d9340ccbbf0385283b7d40a1f8",
+  "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/eden-marco/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241018%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241018T125921Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=b898067f29f84d456aa5471cdfa5b3b67077dcc6d7a29660e994085a8c222860",
+  "first_name": "Eden",
+  "last_name": "Marco",
+  "full_name": "Eden Marco",
+  "follower_count": 6020,
+  "occupation": "LLM Specialist, Customer Engineering - Google Cloud at Google",
+  "headline": "LLMs @ Google Cloud | Best-selling Udemy Instructor | Backend & GenAI | Opinions stated here are my own, not those of my company",
+  "summary": "Backend developer --> Now an AI Engineer, Udemy.com best seller instructor\nOpinions stated here are my own, not those of my company",
+  "country": "US",
+  "country_full_name": "United States",
+  "city": "United States",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "Google",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/google",
+      "company_facebook_profile_url": null,
+      "title": "LLM Specialist, Customer Engineering - Google Cloud",
+      "description": null,
+      "location": null,
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/google/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241018%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241018T125923Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=3686e698437f6337f71bfd12a4125303e7f7f50aebabc464a3ffa72574c06757"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2017
+      },
+      "ends_at": null,
+      "company": "Udemy",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/udemy",
+      "company_facebook_profile_url": null,
+      "title": "Independent Udemy Instructor",
+      "description": "Production and publication of 5 best-selling courses on the Udemy platform, with a total of 90K+ enrolled students, 20000+ ratings and a solid 4.7 \u2605 rating.",
+      "location": null,
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/udemy/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241018%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241018T125923Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=117d25219b438ddc2a8ee6288e5328040a7669d8e23fe723e61a6fea4563bb9b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2022
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2023
+      },
+      "company": "Google",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/google",
+      "company_facebook_profile_url": null,
+      "title": "Customer Engineer",
+      "description": null,
+      "location": null,
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/google/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241018%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241018T125923Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=3686e698437f6337f71bfd12a4125303e7f7f50aebabc464a3ffa72574c06757"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2022
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2022
+      },
+      "company": "Orca Security",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/orca-security",
+      "company_facebook_profile_url": null,
+      "title": "Senior Software Engineer",
+      "description": null,
+      "location": null,
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/orca-security/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241018%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241018T125923Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=aecb309661a23c4b82847ef330aab9864b9229d8c41231d70519dcf926cdf2ef"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2022
+      },
+      "company": "Orca Security",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/orca-security",
+      "company_facebook_profile_url": null,
+      "title": "Software Engineer",
+      "description": null,
+      "location": null,
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/orca-security/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241018%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241018T125923Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=aecb309661a23c4b82847ef330aab9864b9229d8c41231d70519dcf926cdf2ef"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2020
+      },
+      "company": "Wizer",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/get-wizer",
+      "company_facebook_profile_url": null,
+      "title": "Software Engineer",
+      "description": null,
+      "location": null,
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/get-wizer/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241018%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241018T125923Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=23eb8883e05285b08c35eb1936cec3d8462c457192dcc761e46f8b191cf52145"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2019
+      },
+      "company": "Deep Instinct",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/deep-instinct",
+      "company_facebook_profile_url": null,
+      "title": "Software Engineer",
+      "description": null,
+      "location": null,
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/deep-instinct/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241018%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241018T125923Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=565f5b240bdcb81ed17a282161fe4001122c9931254426eb1ff18489ca029108"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2019
+      },
+      "company": "Reichman University",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/reichman-university",
+      "company_facebook_profile_url": null,
+      "title": "Computer Science Teaching Assistant (External Lecturer)",
+      "description": "* Functional Programming (Including international school)\n* Introduction to Computer Science",
+      "location": null,
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/reichman-university/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241018%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241018T125923Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=099e530537eadc81d3c5bb2618af8e3e146edafa8f80a33f66afcd00f91ad6ae"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2019
+      },
+      "field_of_study": "Computer Science",
+      "degree_name": "Bachelor\u2019s Degree",
+      "school": "Technion - Israel Institute of Technology",
+      "school_linkedin_profile_url": "https://www.linkedin.com/company/3155/",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/technion/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241018%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241018T125923Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=71f9c5cbcf338902bd7d4134cff9d0c6d08755ef9545bed907db0480fa44e7fc",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 4266,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/matan-hayun?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABnMW3cBqzGNJHWOTjVCD1mKrgdT3NSJAkM",
+      "name": "Matan Hayun",
+      "summary": "Technical Product Team Lead, Google Cloud Security",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/gal-peretz?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABXxmBwBW5bp3G9PlVuA7vGJpeeBW7xmEAo",
+      "name": "Gal Peretz",
+      "summary": "VP R&D @ Renovai | LLMs & Deep learning consultant @ Apriori | Co-Host @ LangTalks podcast",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/gabi-nir-861b7a22?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAATM40kBrXrjkAQc9ND0Vjlayus8BFevmh8",
+      "name": "Gabi Nir",
+      "summary": "Senior Software Engineer at Google",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/archy-gupta-myprofile?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABt8qI0BPwt219QACvhthEERfKlnTb9MOj0",
+      "name": "Archy Gupta",
+      "summary": "Software Engineer III at Google | 500k @LinkedIn | #MotivationForTheDay",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/dorirabin?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAAjuIIBJ2rTptHmjp76Yff2CrjAIQM7bf8",
+      "name": "Dori Rabin",
+      "summary": "Senior Cloud Solution Architect",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/idan-chen-8b9a641b9?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADLhTg0BB-RiiPlE_ZYQdjPELyn-vuy5beM",
+      "name": "Idan Chen",
+      "summary": "Senior python developer at Israel Military | Udemy Instructor | Algo trader",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/arieljassan?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAOByPMBpKKXehjM-kWfBdUZ75Xby373ZGE",
+      "name": "Ariel Jassan",
+      "summary": "ML Specialist, Google Cloud",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/erwinhuizenga?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAxDF9YBpKh9tYlggdPbZBlKBWoll7QTPcw",
+      "name": "Erwin Huizenga",
+      "summary": "Machine Learning at Google | Startup Advisor",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/svetamorag?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAADCbtUBRIrGOS1oEnYF7CpA2lDCI44KPL8",
+      "name": "Sveta Morag",
+      "summary": "Cloud\u00a0Solutions\u00a0Architect at Google",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/ronwintrob?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAHOMxwBqU6tMf4FF_HgD3-kDczNltVqwlY",
+      "name": "Ron Wintrob",
+      "summary": "Customer Engineer-Security at Google Cloud",
+      "location": null
+    }
+  ],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [
+    "Python",
+    "Cloud Computing",
+    "Django",
+    "AWS",
+    "Elasticsearch",
+    "PostgreSQL",
+    "SQL",
+    "NoSQL",
+    "Bash",
+    "Linux",
+    "Firebase",
+    "Cloud Firestore",
+    "MongoDB",
+    "Jenkins",
+    "docker",
+    "Neo4j",
+    "Haskell",
+    "Functional Programming",
+    "Graph Databases"
+  ],
+  "inferred_salary": {
+    "min": null,
+    "max": null
+  },
+  "gender": null,
+  "birth_date": null,
+  "industry": "Computer Software",
+  "extra": {
+    "github_profile_id": null,
+    "twitter_profile_id": null,
+    "facebook_profile_id": null
+  },
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": []
+}
